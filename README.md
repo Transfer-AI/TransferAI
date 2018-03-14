@@ -6,7 +6,7 @@ As of 3/14/18, the design has changed from an Android application (now in Transf
 
 ## The Team
 
-* **Anthony Baietto** - *Lead programmer, idea innovator* - [baietto](https://github.com/baietto)
+* **Anthony Baietto** - *Lead programmer, idea innovator, GUI designer, algorithm writer* - [baietto](https://github.com/baietto)
 * **Sadaqat Ali** - *Head GUI designer* - [sadaqat12](https://github.com/sadaqat12)
-* **Varenyam Kaushik** - ** - [VarenyamK](https://github.com/VarenyamK)
-* **Jeremy Huang** - ** - [?](https://github.com/)
+* **Varenyam Kaushik** - *Head algorithm writer* - [VarenyamK](https://github.com/VarenyamK)
+* **Jeremy Huang** - *Head algorithm writer* - [?](https://github.com/)
